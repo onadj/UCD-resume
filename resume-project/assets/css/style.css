@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+header {margin:0;
+}
+
+logo {background: url("../images/oliver1.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 36opx;
+      transition: all .5s ease-in-out;
+      -moz-tranzition: all all .5s ease-in-out;
+
+}
