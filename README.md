@@ -1,2 +1,0 @@
-# UCD-resume
-UCD resume
