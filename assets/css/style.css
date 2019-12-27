@@ -26,6 +26,8 @@
 .bg-color-work-history{ background-color: #9b59b6;
 }
 
+.bg-color-contact{background-color: #fff;
+}
 /*-------------Special paddings/margins/text-------------------------*/
 h1,h2,h3,h4 {margin:0;
 }
@@ -273,3 +275,31 @@ footer { background-color: #525252;
 }
 .history-items{ margin-bottom: 30px;
 }
+
+/*-------------Contact Form------------------------*/
+
+.contact-heading{ font-family: "Exo",sans-serif;
+                  font-weight:300;
+                  margin-top:25px;
+                  margin-bottom:20px;
+
+}
+.center-form{ padding-top:10px;
+              margin: 0 auto;
+              max-width: 70%;
+}
+
+button[type="submit"]{margin-top:15px;
+                      margin-bottom: 20px;
+                      color:#fafafa;
+                      background-color: #e67e22;
+}
+
+/*-------------Media Queries------------------------*/
+
+@media (min-width:992px){ 
+                               .center-form{ padding-top:30px;
+                                             margin: 0 auto;
+                                            max-width: 50%;
+                                            min-height:240px;
+                                            }
