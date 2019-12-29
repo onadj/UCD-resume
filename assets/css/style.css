@@ -81,6 +81,7 @@ header {
        font-weight:100;
        font-size:46px;
        margin-top:50px;
+       margin-left:15px;
        color:#fff;
 }
 
@@ -88,6 +89,7 @@ header {
        font-weight:200;
        font-size:28px;
        margin-bottom: 90px;
+       margin-left:15px;
        color:#fff;
 
 }
